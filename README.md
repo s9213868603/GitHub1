@@ -1,2 +1,1 @@
-# GitHub1
-ECHO Hello!
+Console.Write("Put your name ");
